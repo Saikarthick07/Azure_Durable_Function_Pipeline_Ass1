@@ -55,10 +55,10 @@ def store_metadata(metadata):
 
     conn_str = (
         "Driver={ODBC Driver 18 for SQL Server};"
-        "Server=tcp:cst8917sql134.database.windows.net,1433;"
-        "Database=cst8917db;"
-        "Uid=sqladminuser;"
-        "Pwd=StrongP@ssword123!;"
+        "Server=tcp:serverlesstest1.database.windows.net,1433;"
+        "Database=serverless;"
+        "Uid=adminuser;"
+        "Pwd=Bhuvanak_09;"
         "Encrypt=yes;"
         "TrustServerCertificate=no;"
         "Connection Timeout=30;"
